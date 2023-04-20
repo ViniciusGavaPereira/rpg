@@ -10,6 +10,6 @@ public class Program {
 	public static void main(String[] args) throws FileNotFoundException{
 		Menu.menu();
       
-		DatabaseFinder.databseFinder();
+		DatabaseFinder.databseFinder("rpg/src/database-files/weapons-database");
 	}
 }
