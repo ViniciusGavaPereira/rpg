@@ -18,7 +18,7 @@ public class App
                               };
                               
 
-     //   Jogador jogadorUm = new Jogador("Vinicius",100,100,100);
+       // Jogador jogadorUm = new Jogador("Vinicius",100,100,100);
 
         //System.out.println(jogadorUm.toString());
         
